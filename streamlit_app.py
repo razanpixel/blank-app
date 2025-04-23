@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("🎈warzo27mamprang")
+st.write("🎈~WARZO~")
 st.write(
-    "owjssidhdudisissjsisjs."
+    "warzo all the time."
 )
